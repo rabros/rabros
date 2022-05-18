@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabros
 - 👀 I’m interested in get an intership in area IT for get professional experience
-- 🌱 I’m currently learning javascript for backend in course STAART
+- 🌱 I’m currently learning javascript for backend in course STAART and studying systems analysis and development - UNIFCV
 - 📫 How to reach me e-mail, phone.
 
 <!---
