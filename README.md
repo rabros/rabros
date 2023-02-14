@@ -1,6 +1,6 @@
 - 👋 Olá, Eu me chamo João Henrique Pilz de Barros.
-- 👀 Procurando atuar na área da tecnoligia para obter experiência profissional.
-- 🌱 Atualemente cursando Analise e Desenvolvimento de Sistemas - UNIFCV
+- 👀 Procurando atuar na área da tecnologia para obter experiência profissional.
+- 🌱 Atualmente cursando Ánalise e Desenvolvimento de Sistemas - UNIFCV
 - 📫 E-mail: joaopilzbarros@gmail.com
 
 <!---
