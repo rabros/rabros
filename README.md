@@ -1,7 +1,8 @@
-- 👋 Olá, Eu me chamo *João Henrique Pilz de Barros*.
+- ## 👋 Olá, Eu me chamo *João Henrique Pilz de Barros*.
 - 👀 Procurando atuar na área da tecnologia para obter experiência profissional.
 - 🌱 Atualmente cursando Ánalise e Desenvolvimento de Sistemas - UNIFCV
 - 📫 E-mail: joaopilzbarros@gmail.com
+- 
 
 <!---
 rabros/rabros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
